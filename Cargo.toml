@@ -1,0 +1,6 @@
+[package]
+name = "sealcuttingkit"
+version = "0.0.1"
+authors = ["Liu Hui <liuhui.hz@gmail.com>"]
+
+[dependencies]
